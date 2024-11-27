@@ -1,0 +1,10 @@
+{
+    "tool1": {
+        "url": "https://github.com/dark-assist/termgrok",
+        "description": "This is tool1."
+    },
+    "tool2": {
+        "url": "https://github.com/dark-assist/metasploit_termux",
+        "description": "This is tool2."
+    }
+}
